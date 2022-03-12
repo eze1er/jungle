@@ -29,4 +29,7 @@ class ApplicationController < ActionController::Base
     cookies[:cart]
   end
 
+  def about
+  end 
+
 end
