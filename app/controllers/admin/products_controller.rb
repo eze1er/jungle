@@ -25,8 +25,6 @@ class Admin::ProductsController < ApplicationController
     redirect_to [:admin, :products], notice: 'Product deleted!'
   end
 
-  
-
   private
 
   def product_params
