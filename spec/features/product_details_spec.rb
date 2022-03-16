@@ -24,7 +24,7 @@ RSpec.feature "ProductDetails", type: :feature, js: true do
       save_and_open_screenshot
       expect(page).to have_css 'article.product-detail'
       
-      puts page.html
+      # puts page.html
       
       @category.products.create!(
         name:  Faker::Hipster.sentence(3),
