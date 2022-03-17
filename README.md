@@ -50,11 +50,11 @@ BUNDLED WITH
 
 # PAGES FOR View
 
-[Admin category](public/screenshots/admin_categories.png)
-[My Cart](public/screenshots/cart.png)
-[Login](public/screenshots/login.png)
-[Products by category](public/screenshots/product_category.png)
-[Products](public/screenshots/products.png)
-[Registration](public/screenshots/registration.png)
+[Admin category](https://github.com/eze1er/jungle/blob/master/public/screenshots/admin_categories.png)
+[My Cart](https://github.com/eze1er/jungle/blob/master/public/screenshots/cart.png)
+[Login](https://github.com/eze1er/jungle/blob/master/public/screenshots/login.png)
+[Products by category](https://github.com/eze1er/jungle/blob/master/public/screenshots/product_category.png)
+[Products](https://github.com/eze1er/jungle/blob/master/public/screenshots/products.png)
+[Registration](https://github.com/eze1er/jungle/blob/master/public/screenshots/registration.png)
 
 ### Author: [Ezechiel Itimbien](https://github.com/eze1er)
