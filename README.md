@@ -1,6 +1,6 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 4.2 for purposes of using Rails by example. This application are a safe payment method by stripe.
 
 ## Additional Steps for Apple M1 Machines
 
@@ -9,7 +9,7 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 2. Remove Gemfile.lock
 3. Replace Gemfile with version provided [here](https://gist.githubusercontent.com/FrancisBourgouin/831795ae12c4704687a0c2496d91a727/raw/ce8e2104f725f43e56650d404169c7b11c33a5c5/Gemfile)
 
-## Setup
+## Start Application
 
 1. Run `bundle install` to install dependencies
 2. Create `config/database.yml` by copying `config/database.example.yml`
@@ -31,3 +31,30 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+* bcrypt (~> 3.1.7)
+* bootstrap-sass (~> 3.3.6)
+* byebug
+* capybara
+* carrierwave
+* database_cleaner
+
+RUBY VERSION
+   ruby 2.3.5p376
+
+BUNDLED WITH
+   1.16.1
+
+## Test by 
+
+* Capybara
+
+# PAGES FOR View
+
+[Admin category](public/screenshots/admin_categories.png)
+[My Cart](public/screenshots/cart.png)
+[Login](public/screenshots/login.png)
+[Products by category](public/screenshots/product_category.png)
+[Products](public/screenshots/products.png)
+[Registration](public/screenshots/registration.png)
+
+### Author: [Ezechiel Itimbien](https://github.com/eze1er)
